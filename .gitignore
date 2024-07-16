@@ -7,6 +7,7 @@ types
 lints
 tests/lsp/**
 tests/selene/**
+.env
 
 # Files
 sourcemap.json
